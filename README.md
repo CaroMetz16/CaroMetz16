@@ -1,6 +1,6 @@
 ## Hi, I am Carolina Rodriguez 👋
 
-:location: **Jalisco, México**  
+:round pushpin: **Jalisco, México**  
 :computer: **Estudiante de programación**  
 :pencil: **Creador digital**  
 :seedling: **Amante de la naturaleza**
