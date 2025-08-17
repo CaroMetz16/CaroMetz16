@@ -3,7 +3,7 @@
 :location: **Jalisco, México**  
 :computer: **Estudiante de programación**  
 :pencil: **Creador digital**  
-:plant: **Amante de la naturaleza**
+:seedling: **Amante de la naturaleza**
 
 ### Vías de contacto
 
